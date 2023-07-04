@@ -26,7 +26,7 @@ message["Subject"] = "Campsites are available!"
 
 # locations to check
 mapID =      ["-2147483610", "-2147483430"]
-locationID = ["-2147483623", "-2147483543"]
+#locationID = ["-2147483623", "-2147483543"] # location ID is not needed in this version
 campsite = ["Cultus Lake", "Rolley Lake"]
 
 # Dates to check
